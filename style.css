@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Lobster');
+
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    font-weight: normal;
+    text-align: center;
+}
+
+#info {
+    text-align: center;
+}
+
+#main-body {
+    width: 200px;
+    max-width: 100%;
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    border-radius: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+#content {
+    width: 95px;
+    margin: auto;
+}
+
+#reset {
+    font-family: 'Lato', sans-serif;
+}
