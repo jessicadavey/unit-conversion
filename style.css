@@ -16,7 +16,7 @@ body {
 }
 
 #main-body {
-    width: 200px;
+    width: 250px;
     max-width: 100%;
     border-style: solid;
     border-color: gray;
@@ -28,7 +28,7 @@ body {
 }
 
 #content {
-    width: 95px;
+    width: 150px;
     margin: auto;
 }
 
